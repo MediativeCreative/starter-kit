@@ -1,0 +1,131 @@
+<style type="text/css">
+.md_container{
+	width: 100%;
+  position: relative;
+}
+
+.md_contentWrapper {
+  position: relative;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  position: relative;
+  flex-wrap: wrap;
+  -ms-flex-flow: wrap;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+
+.md_section1, .md_section2{
+  position: relative;
+  width: 49%;
+  margin-bottom: 30px;
+}
+
+.md_sectionTitle{
+  position: relative;
+  color: #333333;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: bold;
+  margin-bottom: 17px;
+  margin-top: 14px;
+  padding-right: 40px;
+}
+
+.md_sectionCopy{
+  position: relative;
+  font-size: 15px;
+  line-height: 22px;
+  color: #808285;
+  font-weight: 200;
+  padding-right: 40px;
+}
+
+
+
+.md_sectionCopy ul{
+  list-style-position: outside;
+  margin-bottom: 6px;
+  list-style: disc;
+}
+
+.md_sectionCopy ul li{
+  margin-left: 20px;
+
+}
+
+.md_contentImg{
+  width: 100%;
+  height: auto;
+  float: right;
+}
+
+
+.md_vidContainer{
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 55.8%;
+}
+
+.md_vidContainer iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.md_section3 {
+  position: relative;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  position: relative;
+  flex-wrap: row wrap;
+  -ms-flex-flow: row wrap;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+
+.md_contentImg2{
+  width: 100%;
+  min-height: 300px;
+  background-image: url("http://i.walmartimages.ca/img/mediative/Batiste/batiste-shampoo-tips-img.jpg");
+  float: right;
+  background-repeat:no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-right: 20px;
+}
+
+
+@media screen and (max-width : 900px) {
+  .md_contentWrapper, .md_section3 {
+    flex-direction:column;
+  }
+  .md_contentImg2{
+    min-height: 0;
+    height: 0;
+    padding-bottom: 55.8%;
+    margin-right: 0;
+  }
+  .md_section1, .md_section2{
+    width: 100%;
+  }
+}
+
+</style>
+
+
+
