@@ -9,7 +9,7 @@
 	font-size: 20px;
 }
 
-.md_sectionTitle{
+.md_sectionTitleLine{
   padding-top: 10px;
   padding-bottom: 10px;
   overflow: hidden;
@@ -20,7 +20,7 @@
   line-height: 2.8rem;
 }
 
-.md_sectionTitle:after{
+.md_sectionTitleLine:after{
   content:"";
   display: inline-block;
   height: 0.3em;
