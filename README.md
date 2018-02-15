@@ -15,5 +15,15 @@ CSS Class to use:
 | Header H2 blue | `md_h2_blue` |
 | Header H3 grey | `md_h3` |
 | Header H3 blue | `md_h3_blue` |
+| List | `<ul class="md_ul"><li>List item one</li></ul>`  |
+
+CTA
+
+| Style result	| Class			|
+| ------------- |:-------------:|
+| Orange one line | `button button-submit md_btn` |
+| Orange multiline | `button button-submit md_btn md_cta_multiline` |
+| Green one line | `button add-to-cart-btn md_btn` |
+| Green one multiline | `button add-to-cart-btn md_btn md_cta_multiline` |
 
 
