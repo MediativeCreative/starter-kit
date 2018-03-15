@@ -4,16 +4,16 @@
 		"selected_items":
 		[
 			[
+				"margi",
+				"margin-right"
+			],
+			[
 				"tran",
 				"transform"
 			],
 			[
 				"tra",
 				"transform"
-			],
-			[
-				"margi",
-				"margin-bottom"
 			],
 			[
 				"marg",
@@ -279,24 +279,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 4711,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "CSS/globalStyle.css",
-			"settings":
-			{
-				"buffer_size": 3894,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -338,11 +320,27 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/sarnoul1/Documents/CODE/GitHub/starter-kit",
-		"/Users/sarnoul1/Documents/CODE/GitHub/starter-kit/CSS"
+		"/C/Users/amatsou1/Documents/GitHub/starter-kit"
 	],
 	"file_history":
 	[
+		"/E/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Dyson Canada/14234 - Dyson Brand Store/Production/02_Integration/dyson_e.html",
+		"/E/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Dyson Canada/14234 - Dyson Brand Store/Production/02_Integration/dyson_f.html",
+		"/E/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Unilever Canada/14458 - Dove Foam Flyer/Production/02_Integration/stores_en.xml",
+		"/E/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Mattel Canada/14786 - Mattel Hot Wheels/14786 - Hot Wheels March and Hylomo/Production/02_Integration/stores_hot_wheels.xml",
+		"/C/Users/amatsou1/Desktop/3videopip.html",
+		"/E/Box Sync/_WM_Reference/03_Integration/Youtube video/youtube_with_omniture_tagging.html",
+		"/E/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Samsung/14617 - Samsung Mobile/14617 - Samsung Mobile - Flagship Launch/Production/02_Integration/samsung_s9.html",
+		"/E/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Starbucks/14364 - Starbucks Annual Program/2 - Spring Brunch/Production/02_Integration/starbucks_en.html",
+		"/C/Users/amatsou1/Documents/GitHub/Component-Multi-Column-Cartridge/index.html",
+		"/C/Users/amatsou1/Documents/GitHub/starter-kit/index.html",
+		"/E/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Starbucks/14364 - Starbucks Annual Program/2 - Spring Brunch/Production/02_Integration/starbucks_ghs_en.html",
+		"/E/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Starbucks/14364 - Starbucks Annual Program/2 - Spring Brunch/Production/02_Integration/starbucks_fr.html",
+		"/E/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Starbucks/14364 - Starbucks Annual Program/2 - Spring Brunch/Production/02_Integration/starbucks_ghs_fr.html",
+		"/E/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Unilever Canada/14458 - Dove Foam Flyer/Production/02_Integration/stores_fr.xml",
+		"/C/Users/amatsou1/Documents/GitHub/starter-kit/CSS/globalStyle-min.css",
+		"/C/Users/amatsou1/Documents/GitHub/starter-kit/README.md",
+		"/C/Users/amatsou1/Documents/GitHub/starter-kit/CSS/globalStyle.css",
 		"/Users/sarnoul1/Documents/CODE/GitHub/starter-kit/CSS/generalStyle.css",
 		"/Users/sarnoul1/Downloads/[KAM] Layers Renamer - APR.jsx",
 		"/Users/sarnoul1/Documents/CODE/GitHub/Component-Multi-Column-Cartridge/Component-Multi-Column-Cartridge.sublime-project",
@@ -453,28 +451,11 @@
 		"/Users/sarnoul1/Box Sync/YPnetSync/EXPORT/DCS/300x250_netsync/gwddoubleclick_style.css",
 		"/Users/sarnoul1/Box Sync/YPnetSync/EXPORT/DCS/300x250_netsync/gwddoubleclick_min.js",
 		"/Users/sarnoul1/Box Sync/YPnetSync/EXPORT/DCS/300x250_netsync/gwd-events-support.1.0.js",
-		"/Users/sarnoul1/Box Sync/YPnetSync/EXPORT/DCS/300x250_netsync/gwd_webcomponents_min.js",
-		"/Users/sarnoul1/Box Sync/YPnetSync/EXPORT/DCS/300x250_netsync/groups_runtime.min.1.0.js",
-		"/Users/sarnoul1/Box Sync/YPnetSync/EXPORT/DCS/300x250_netsync/googbase_min.js",
-		"/Users/sarnoul1/Box Sync/YPnetSync/Banners/DCS_ready/300x250_netsync/gwd_preview_300x250_netsync/gwdid.min.1.0.js",
-		"/Users/sarnoul1/Box Sync/YPnetSync/Banners/DCS_ready/300x250_netsync/gwd_preview_300x250_netsync/gwddoubleclick_min.js",
-		"/Users/sarnoul1/Box Sync/YPscanTool/DCS_ready/YP_728x90_FR/gwd_preview_YP_728x90_FR/index.html",
-		"/Users/sarnoul1/Box Sync/YPscanTool/FinalExport/YP_728x90_FR/index.html",
-		"/Users/sarnoul1/Box Sync/YPscanTool/DCS_ready/YP_728x90_FR/assets/typed.js",
-		"/Users/sarnoul1/Box Sync/YPscanTool/FinalExport/YP_728x90_FR/typed.js",
-		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Rogers Communications/13675 - Chatr Brand Store/Production/03_Integration/code/chatr_main_code_EN.html",
-		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Rogers Communications/13675 - Chatr Brand Store/Production/03_Integration/code/CSS/style_fr.css",
-		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Rogers Communications/13675 - Chatr Brand Store/Production/03_Integration/code/Caroussel_EN.html",
-		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Rogers Communications/13675 - Chatr Brand Store/Production/03_Integration/code/CSS/style_en.css",
-		"/Users/sarnoul1/Box Sync/YPscanTool/FinalExport/YP_728x90/index.html",
-		"/Users/sarnoul1/Box Sync/YPscanTool/FinalExport/YP_300x250_FR/index.html",
-		"/Users/sarnoul1/Box Sync/YPscanTool/FinalExport/YP_160x600/index.html",
-		"/Users/sarnoul1/Box Sync/YPscanTool/_archive/YP_728x90_FR/YP_728x90_FR.html",
-		"/Users/sarnoul1/Box Sync/YPscanTool/YP_728x90_FR/YP_728x90_FR.html"
+		"/Users/sarnoul1/Box Sync/YPnetSync/EXPORT/DCS/300x250_netsync/gwd_webcomponents_min.js"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 30.0
 	},
 	"find_in_files":
 	{
@@ -488,6 +469,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Bramp",
+			"Bram"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -505,75 +488,14 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4711,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1643,
-								1643
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 163.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "CSS/globalStyle.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3894,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1448,
-								1448
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 691.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -610,7 +532,7 @@
 	"project": "Starter-Kit.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 55.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -647,7 +569,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 355.0,
 	"status_bar_visible": true,
 	"template_settings":
